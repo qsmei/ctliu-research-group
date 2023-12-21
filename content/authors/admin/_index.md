@@ -45,9 +45,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:CTLIU@BU.EDU'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:CTLIU@BU.EDU'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -72,8 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
-  - People at Liu’s Lab
+ - People at Liu's Lab
 ---
 
 Dr. Liu's research interest mainly focuses on the development of statistical and computational approaches for genetics/genomics and bioinformatics studies. He also collaborates as a statistician or statistical geneticist on projects studying complex diseases such as diabetes, obesity, musculoskeletal disorder, and cancer. Dr. Liu has more than 10-year experience working on Framingham Heart Study (FHS) as a biostatistician collaborating on various projects. Dr. Liu has also functioned as a collaborator on traditional epidemiological, biomedical or basic science research beyond FHS. In addition, Dr. Liu has been actively engaged in several international collaborative consortia for the analysis of genetics and genomics data.
