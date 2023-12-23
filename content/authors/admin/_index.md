@@ -20,26 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest mainly focuses on the development of statistical and computational approaches for genetics/genomics and bioinformatics studies.
 
-interests:
-  - statistical and computational approaches
-  #- Computational Linguistics
-  #- Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Statistics
-      institution: University of California, Los Angeles
-      #year: 2012
-    - course: MS in Statistics
-      institution: University of California, Los Angeles
-      #year: 2009
-    - course: MS in Statistics
-      institution: National Central University
-      #year: 2008
-    - course: BS in Artificial Intelligence
-      institution: National Central University
-      #year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

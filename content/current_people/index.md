@@ -14,9 +14,7 @@ sections:
           - Principal Investigators
           - People at Liu's Lab
           - Researcher
-          - Postdoc
           - PhD Students
-          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
