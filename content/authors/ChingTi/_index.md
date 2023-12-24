@@ -35,6 +35,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=-LooLFsAAAAJ&hl=en
+  - icon: link
+    icon_pack: fas
+    link: https://www.bu.edu/sph/profile/ching-ti-liu/
   #  - icon: github
   #   icon_pack: fab
   #  link: https://github.com/gcushen
