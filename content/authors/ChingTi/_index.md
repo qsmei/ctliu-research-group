@@ -3,16 +3,14 @@
 title: Ching-Ti Liu
 
 # Full Name (for SEO)
-first_name: ChingTi  #remove the link
-last_name: Liu
+first_name: ChingTi
+last_name: Liu'
 
 # Username (this should match the folder name)
 authors:
   - ChingTi
-
 # Role/position
 role: Professor of BIOSTATISTICS
-
 # Organizations/Affiliations
 organizations:
   - name: Boston University
