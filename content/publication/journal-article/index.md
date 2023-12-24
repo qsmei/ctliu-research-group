@@ -1,8 +1,9 @@
 ---
 title: "Information-incorporated sparse convex clustering for disease subtyping"
-authors:
+authors: 
 - Xiaoyu Zhang
 - admin
+
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"

@@ -3,7 +3,8 @@ title: People
 date: 2022-10-24
 
 type: landing
-
+# This file represents a page section.
+#headless: true
 sections:
   - block: people
     content:
@@ -21,4 +22,5 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      show_publication: false
 ---
