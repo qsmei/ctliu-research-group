@@ -23,7 +23,7 @@ publishDate: "2024-04-08T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Osteoporosis International"
+publication: "Osteoporosis International"
 publication_short: ""
 
 abstract:
